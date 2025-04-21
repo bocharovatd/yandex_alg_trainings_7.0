@@ -1,0 +1,4 @@
+*.out
+.vscode/
+
+/week1/task_j.cpp
