@@ -4,3 +4,5 @@
 ### Лекция 2: Префиксные суммы, разреженная таблица, дерево отрезков
 ### Лекция 3: Битовые операции, исправляющие коды Хэмминга, сжатие данных (алгоритм Лемпела-Зива)
 ### Лекция 4: Ссылочные типы данных, двусвязные списки, B‑деревья
+
+## [Сертификат о прохождении курса](https://certify.s3.yandex.net/young-yandex/a4dbe878-4fee-4892-8b2a-e76a21ba21e6/fa44da49-2cfc-42ef-a32b-ef7e523b04bb.pdf?m-message-key-id=-3963167664746905600&m-message-click-id=53d30847-0260-4c40-bab5-d2c26f4f2b81&utm_source=mindbox&utm_medium=email&utm_campaign=training7&utm_content=certificate&utm_term=160525)
